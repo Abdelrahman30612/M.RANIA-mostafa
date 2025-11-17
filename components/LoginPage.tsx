@@ -34,7 +34,7 @@ const LoginPage: React.FC<LoginPageProps> = ({ onLogin }) => {
     <div className="flex flex-col items-center justify-center w-full">
         <div className="w-full max-w-md bg-slate-800/50 backdrop-blur-sm rounded-2xl shadow-2xl shadow-blue-500/10 p-8 border border-slate-700">
             <div className="text-center mb-8">
-                <img src="https://i.ibb.co/gbrTzc9/image.png" alt="M. Rania Mustafa Logo" className="mx-auto mb-4 h-28 w-auto" />
+                <img src="https://i.ibb.co/gbrTzc9v/image.png" alt="M. Rania Mustafa Logo" className="mx-auto mb-4 h-28 w-auto" />
                 <p className="text-slate-400">أدخل الكود الخاص بك للوصول الى محتواك الدراسى</p>
             </div>
 
