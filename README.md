@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+ المنصه التعليميه
 
-# Run and deploy your AI Studio app
+الاسماء
+https://docs.google.com/spreadsheets/d/1e-M7EZ7cKqgBTBuF8gUttEE28RqxKz4ClpWBwqDOLvU/edit?usp=sharing
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/12jPGzmP9Ae3LgafdCNp7iJqu1P84_Xtt
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+المحاضرات
+https://docs.google.com/spreadsheets/d/1_uVs0IaENLP5LvpVUUW9gAmiWqeYcZndc9dNFtdpLyA/edit?usp=sharing
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+الاسئله
+https://docs.google.com/spreadsheets/d/12mWTDeeZd-HHH-5-P6Prq-6i8-EBNSeXJkCCDvSuHJ4/edit?usp=sharing
+
+
+الدرجات
+https://docs.google.com/spreadsheets/d/1kIXs3TEnBS2KYe4XPUTIz_1Sd7RL_ly5P6WeMIxoiTU/edit?usp=sharing
+
+created by Abrazeq
