@@ -34,7 +34,7 @@ const App: React.FC = () => {
         )}
        </main>
        <footer className="w-full text-center z-10 pb-2">
-         <p className="text-xs text-slate-500">تم إنشاؤه بواسطة عبدالرازق</p>
+         <p className="text-xs text-slate-500">created by Abrazeq</p>
        </footer>
     </div>
   );
